@@ -3,7 +3,7 @@
 ### 再也不怕老婆的视频失效了！
 
 # 使用教程
-    ```python
-    pip3 install you-get
-    python3 bili.py
-    ```
+```
+pip3 install you-get
+python3 bili.py
+```
